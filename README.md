@@ -1,6 +1,8 @@
 MaNGOSFour Database
 ==========
 
+** WARNING: THIS DATABASE IS A DIRECT COPY OF THE CATACLYSM ONE ATM **
+
 License
 -------
 **MaNGOSFour Database** is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
